@@ -26,7 +26,7 @@
 --
 -- chris boulton, @surfichris
 
-local redis_host    = "http://5.253.25.50"
+local redis_host    = "5.253.25.50"
 local redis_port    = 6379
 
 -- connection timeout for redis in ms. don't set this too high!
