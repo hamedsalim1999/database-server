@@ -36,7 +36,7 @@ local redis_timeout = 200
 local redis_key     = "ip_blacklist"
 
 -- cache lookups for this many seconds
-local cache_ttl     = 60
+local cache_ttl     = 112
 
 -- end configuration
 
